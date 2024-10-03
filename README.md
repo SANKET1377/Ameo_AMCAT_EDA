@@ -9,4 +9,4 @@ The aim of this project is to provide data-driven insights into the salary distr
 
 Use case domain 
 
-Human Resources : The dataset can be used to understand factors impacting salary and employability, helping universities, HR professionals, and companies in making informed decisions about talent acquisition and salary structuring
+Human Resources : The dataset can be used to understand factors impacting salary and employability, helping universities, HR professionals, and companies in making informed decisions about talent acquisition and salary structuring.
